@@ -2,7 +2,7 @@ Fullstack Web Developer.
 
 # Fikri Suheri
 
-Hi, I'm Fikri Suheri , i'm a freelancer fullstack web developer. I live in Ciamis , West Java, Indonesia. I'm fullstack Web Developer with PHP as backend and React as front end.
+Hi, I'm Fikri Suheri , i'm a freelancer web developer. I live in Ciamis , West Java, Indonesia.
 
 ## Github Performance Overall
 
